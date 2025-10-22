@@ -3,6 +3,8 @@
 ## Projects for Term 1
 
 ### Fish and Ships
+10/22/25
+
 
 My very first game code- based off of the classic asteroid shooter game. Navigate through coral pieces in a fish shaped spaceship to survive for as long as possible. Shoot drops of water to destroy the oncoming coral. Have fun and don't get hit!
 
