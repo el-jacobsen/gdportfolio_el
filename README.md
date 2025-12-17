@@ -1,4 +1,7 @@
 # El Jacobsen's Game Dev Portfolio 2026
+## Contact
+Email: 9665643@graniteschools.org
+
 ## Certification
 [Game Development 1](https://github.com/el-jacobsen/gdportfolio_el/blob/main/images/El%20Jacobsen_Game%20Development%20Fundamentals%201_12152025.pdf)
 
@@ -25,7 +28,7 @@ Have fun and don't get hit!
 12/15/25
 
 
-A group project with peers. Run through a maze and avoid the bees flying around in the corridors. Try to escape before the king gets to you! Press space to attack and run into the lightning bolts to gain powerups. 
+A group project with peers. Run through a maze and avoid the bees flying around in the corridors. Try to escape before the king gets to you! Press space to attack and run into the lightning bolts to gain powerups. Avoid colliding with the king to stay safe. Survive 60 seconds to make it out!
 
 Don't get caught!
 
