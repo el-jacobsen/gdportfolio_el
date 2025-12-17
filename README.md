@@ -20,3 +20,13 @@ Have fun and don't get hit!
 * [Windows](https://github.com/user-attachments/files/23056867/windows-amd64.zip)
 * [MacOS](https://github.com/user-attachments/files/23056525/macos-aarch64.zip)
 * [Source Code](https://github.com/el-jacobsen/gdportfolio_el/tree/main/src/SpaceGame_el)
+
+### Castle Corridors
+12/15/25
+
+
+A group project with peers. Run through a maze and avoid the bees flying around in the corridors. Try to escape before the king gets to you! Press space to attack and run into the lightning bolts to gain powerups. 
+
+Don't get cuaght!
+
+![Running Game](adfjk;alfj)
