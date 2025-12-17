@@ -29,4 +29,4 @@ A group project with peers. Run through a maze and avoid the bees flying around 
 
 Don't get caught!
 
-![Running Game]([adfjk;alfj](https://github.com/el-jacobsen/gdportfolio_el/blob/main/images/CastleCorridors.png))
+![Running Game](https://github.com/el-jacobsen/gdportfolio_el/blob/main/images/CastleCorridors.png)
