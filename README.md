@@ -1,6 +1,6 @@
 # El Jacobsen's Game Dev Portfolio 2026
 ## Certification
-![Game Development 1](https://github.com/el-jacobsen/gdportfolio_el/blob/main/images/El%20Jacobsen_Game%20Development%20Fundamentals%201_12152025.pdf)
+[Game Development 1](https://github.com/el-jacobsen/gdportfolio_el/blob/main/images/El%20Jacobsen_Game%20Development%20Fundamentals%201_12152025.pdf)
 
 ## Projects for Term 1
 
@@ -27,6 +27,6 @@ Have fun and don't get hit!
 
 A group project with peers. Run through a maze and avoid the bees flying around in the corridors. Try to escape before the king gets to you! Press space to attack and run into the lightning bolts to gain powerups. 
 
-Don't get cuaght!
+Don't get caught!
 
 ![Running Game](adfjk;alfj)
