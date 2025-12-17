@@ -1,5 +1,7 @@
 # El Jacobsen's Game Dev Portfolio 2026
-## [Certification]() 
+## Certification
+![Game Development 1](https://github.com/el-jacobsen/gdportfolio_el/blob/main/images/El%20Jacobsen_Game%20Development%20Fundamentals%201_12152025.pdf)
+
 ## Projects for Term 1
 
 ### Fish and Ships
